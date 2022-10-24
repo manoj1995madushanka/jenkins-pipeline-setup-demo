@@ -16,6 +16,7 @@ public class PipelineDemoApplication {
     public static void main(String[] args) {
         logger.info("app started");
         // test build pipeline
+        //test
         SpringApplication.run(PipelineDemoApplication.class, args);
     }
 
