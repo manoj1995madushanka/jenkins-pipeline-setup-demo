@@ -14,7 +14,7 @@ public class PipelineDemoApplication {
     private static Logger logger = LoggerFactory.getLogger(PipelineDemoApplication.class);
 
     public static void main(String[] args) {
-        logger.info("app started test");
+        logger.info("app started");
         SpringApplication.run(PipelineDemoApplication.class, args);
     }
 
